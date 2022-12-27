@@ -1,5 +1,9 @@
 # face_tracking_using_2_servos_with_PID_control
 
+## Description
+This project uses two servomotors to control the position of a camera that will be tracking faces detected in its visual field using
+PID control for both of the servos.
+
 ## Materials
   - Raspberry Pi
   - Pi camera
